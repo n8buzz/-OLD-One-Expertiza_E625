@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Expertiza
 =========
 
@@ -55,3 +56,7 @@ When editing existing files:
 
 Please do no go crazy changing old code to match these guidelines; it will just create lots of potential merge conflicts.
 Applying style guidelines to code you add and modify is good enough. :-)
+=======
+Expertiza_E625
+==============
+>>>>>>> 8a36323ef8e735de3a3ef9400703332a71dc0c3a
